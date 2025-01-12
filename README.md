@@ -4,7 +4,7 @@ Here’s a polished and professional version of your README for the GitHub repos
 
 ---
 
-# **DevOps QR Code Generator**  
+# ** QR Code Generator**  
 
 This repository contains the **DevOps Capstone Project**, a sample application that generates QR codes for user-provided URLs. The project showcases the implementation of **DevOps best practices**, including **containerization**, **CI/CD pipelines**, and **monitoring**.  
 
@@ -79,18 +79,6 @@ The front-end code is located in the `front-end-nextjs` directory.
 
 Your front-end application will be running at: [http://localhost:3000](http://localhost:3000).  
 
----
-
-## **DevOps Practices**  
-
-### **1. Containerization**  
-Both the front-end and back-end applications are containerized using Docker for consistent deployment across environments.  
-
-### **2. Continuous Integration / Continuous Deployment (CI/CD)**  
-CI/CD pipelines are implemented to automate build, test, and deployment processes.  
-
-### **3. Monitoring**  
-Monitoring tools can be integrated to ensure application health and performance.  
 
 ---
 
