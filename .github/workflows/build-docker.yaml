@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'api/Dockerfile'
-      - 'frontend/Dockerfile'
+      - 'front-end-nextjs/Dockerfile'
 
 jobs:
   build:
