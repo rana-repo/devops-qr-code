@@ -31,7 +31,7 @@ s3 = boto3.client(
 )
 
 # S3 Bucket Name
-bucket_name = 'qrcode-rana'  # Replace with your bucket name
+bucket_name = os.getenv("AWS_BUCKET_NAME") # Replace with your bucket name
 
 
 @app.post("/generate-qr/")
