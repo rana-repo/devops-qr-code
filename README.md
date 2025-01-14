@@ -1,8 +1,5 @@
 # devops-qr-code
 
-Here’s a polished and professional version of your README for the GitHub repository:  
-
----
 
 #  QR Code Generator  
 
