@@ -1,6 +1,3 @@
-# devops-qr-code
-
-
 #  QR Code Generator  
 
 This repository contains the **DevOps Capstone Project**, a sample application that generates QR codes for user-provided URLs. The project showcases the implementation of **DevOps best practices**, including **containerization**, **CI/CD pipelines**, and **monitoring**.  
